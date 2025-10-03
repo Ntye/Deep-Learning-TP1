@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/0/models/m-387d77dbbda44ca48ca414ce620b0b50/artifacts
+creation_timestamp: 1759505338250
+experiment_id: '0'
+last_updated_timestamp: 1759505350073
+model_id: m-387d77dbbda44ca48ca414ce620b0b50
+model_type: null
+name: mnist_model
+source_run_id: 024baece65eb4602ae3752b15c69cb7c
+status: 3
+status_message: null

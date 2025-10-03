@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/024baece65eb4602ae3752b15c69cb7c/artifacts
+end_time: 1759505350084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 024baece65eb4602ae3752b15c69cb7c
+run_name: selective-trout-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759505313866
+status: 4
+tags: []
+user_id: Ntye

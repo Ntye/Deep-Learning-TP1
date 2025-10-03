@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9d4529e258ac490a8bcb00a2eb0a4c2b/artifacts
+end_time: 1759505921039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d4529e258ac490a8bcb00a2eb0a4c2b
+run_name: bedecked-stork-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759505888625
+status: 4
+tags: []
+user_id: Ntye
